@@ -54,12 +54,12 @@ if(isset($_POST['login']))
                     <form method="post">
                          
                         <div class="form-group">
-                            <label>No Telepon / Email</label>
-                           <input type="text" name="emailcont" required="true" placeholder="Masukkan No Telepon / Email" required="true" class="form-control">
+                            <label>No Telp/ Email</label>
+                           <input type="text" name="emailcont" required="true" placeholder="Telp / Email" required="true" class="form-control">
                         </div>
                         <div class="form-group">
                             <label>Password</label>
-                            <input type="password" name="password" placeholder="Masukkan password" required="true" class="form-control">
+                            <input type="password" name="password" placeholder="Password" required="true" class="form-control">
                         </div>
                         <div class="checkbox">
                             
@@ -68,7 +68,7 @@ if(isset($_POST['login']))
                             </label>
 
                         </div>
-                        <button type="submit" name="login" class="btn btn-success btn-flat m-b-30 m-t-30" style="background-color: #013880; color: #fff;">Masuk</button>
+                        <button type="submit" name="login" class="btn btn-success btn-flat m-b-30 m-t-30" style="background-color: #013880; color: #fff;">Log In</button>
                        
                        <div class="checkbox" style="padding-bottom: 20px;padding-top: 20px;">
                             

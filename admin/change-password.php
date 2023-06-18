@@ -10,7 +10,7 @@ if(isset($_POST['submit']))
 $adminid=$_SESSION['vpmsaid'];
 $cpassword=md5($_POST['currentpassword']);
 $newpassword=md5($_POST['newpassword']);
-$query=mysqli_query($con,"select ID from tbladmin where ID='$adminid' and   Password='$cpassword'");
+$query=mysqli_query($con,"select ID from tbladmin where ID='$adminid' and Password='$cpassword'");
 $row=mysqli_fetch_array($query);
 if($row>0){
 $ret=mysqli_query($con,"update tbladmin set Password='$newpassword' where ID='$adminid'");

@@ -25,7 +25,7 @@ if(isset($_POST['submit']))
  <html class="no-js" lang="">
 <head>
     
-    <title>VPMS-Forgot Page</title>
+    <title>ParkIn-Forgot Page</title>
    
 
     <link rel="apple-touch-icon" href="https://i.imgur.com/O92SgX5.png">
@@ -51,7 +51,7 @@ if(isset($_POST['submit']))
             <div class="login-content">
                 <div class="login-logo">
                     <a href="index.php">
-                         <h2 style="color: green">Vehicle Parking Management System</h2>
+                         <h2 style="color: green">ParkIn ITS</h2>
                     </a>
                 </div>
                 <div class="login-form">

@@ -22,6 +22,9 @@ echo "<script>window.location.href='manage-incomingvehicle.php'</script>";
    
     <title>ParkIn - Manage Incoming Vehicle</title>
 
+    <link rel="apple-touch-icon" href="https://i.imgur.com/O92SgX5.png">
+    <link rel="shortcut icon" href="https://i.imgur.com/O92SgX5.png">
+
 
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/normalize.css@8.0.0/normalize.min.css">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.1.3/dist/css/bootstrap.min.css">

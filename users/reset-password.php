@@ -23,7 +23,7 @@ session_destroy();
  <html class="no-js" lang="">
 <head>
     
-    <title>VPMS-Reset Page</title>
+    <title>ParkIn-Reset Page</title>
    
 
     <link rel="apple-touch-icon" href="https://i.imgur.com/O92SgX5.png">
@@ -53,14 +53,14 @@ return true;
 
 </script>
 </head>
-<body class="bg-dark">
+<body class="" style="background-color: #013880; color: #fff;">
 
     <div class="sufee-login d-flex align-content-center flex-wrap">
         <div class="container">
             <div class="login-content">
                 <div class="login-logo">
                     <a href="index.php">
-                       <h2 style="color: green">Vehicle Parking Management System</h2>
+                       <h2 style="color: green">ParkIn ITS</h2>
                     </a>
                 </div>
                 <div class="login-form">

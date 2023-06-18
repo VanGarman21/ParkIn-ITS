@@ -34,7 +34,7 @@ echo '<script>alert("This email or Contact Number already associated with anothe
  <html class="no-js" lang="">
 <head>
     
-    <title>VPMS-Signup Page</title>
+    <title>ParkIn-Signup Page</title>
    
 
 
@@ -64,14 +64,14 @@ return true;
 
     <!-- <script type="text/javascript" src="https://cdn.jsdelivr.net/html5shiv/3.7.3/html5shiv.min.js"></script> -->
 </head>
-<body class="bg-dark">
+<body class="" style="background-color: #013880; color: #fff;">
 
     <div class="sufee-login d-flex align-content-center flex-wrap">
         <div class="container">
             <div class="login-content">
                 <div class="login-logo">
                     <a href="index.php">
-                        <h2 style="color: #fff">VPMS!! Create Your account</h2>
+                        <h2 style="color: #fff">ParkIn!! Create Your account</h2>
                     </a>
                 </div>
 
@@ -112,7 +112,7 @@ return true;
                             </label>
 
                         </div>
-                        <button type="submit" name="submit" class="btn btn-success btn-flat m-b-30 m-t-30">REGISTER</button>
+                        <button type="submit" name="submit" class="btn btn-success btn-flat m-b-30 m-t-30" style="background-color: #013880; color: #fff;">REGISTER</button>
                        
                        
                     </form>

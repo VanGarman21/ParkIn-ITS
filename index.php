@@ -2,8 +2,11 @@
 <html lang="en">
     <head>
         
-        <title>ParkIn|| Home Page</title>
+        <title>ParkIn| Home Page</title>
         
+        <link rel="apple-touch-icon" href="https://i.imgur.com/O92SgX5.png">
+    <link rel="shortcut icon" href="https://i.imgur.com/O92SgX5.png">
+
         <!-- Font Awesome icons (free version)-->
         <script src="https://use.fontawesome.com/releases/v6.1.0/js/all.js" crossorigin="anonymous"></script>
         <!-- Google fonts-->
@@ -130,7 +133,7 @@
     </div>
    
       <button>
-        <a href='#'><img src='https://cdn-icons-png.flaticon.com/512/174/174857.png' alt='LinkedIn' class='items-end'></a>
+        <a href='https://www.linkedin.com/in/afsulthon/'><img src='https://cdn-icons-png.flaticon.com/512/174/174857.png' alt='LinkedIn' class='items-end'></a>
       </button>
       <div class='my-2'>
         <img src='assets/img/akmal.png' alt='Anggota Tim 2' width='300' height='195'>
